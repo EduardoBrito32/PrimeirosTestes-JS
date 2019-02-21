@@ -1,0 +1,36 @@
+body{
+    color: red;
+    margin: 0px;
+    padding: 0px;
+
+}
+a{
+    color: #fff;
+    margin: 0 5px;
+    padding: 5px;
+    background-color: #0039b9aa;
+    text-decoration: none;
+}
+a:hover{
+    transition: 0.4s;
+    background-color: #00b917aa;
+}
+ul li{
+    margin-bottom: 15px;
+    font-size: 1.1em;
+  list-style: none;
+}
+input{
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+}
+button{
+    height: 37px;
+    border: none;
+    background-color: aqua;
+}
+button:hover{
+    transition: 0.5s;
+    background-color: goldenrod;
+}
